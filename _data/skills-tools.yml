@@ -17,20 +17,18 @@
 - name: Travis CI
   weight: 1
 
-- name: Jenkins
-  weight: 1
 
 - name: Chrome DevTools
-  weight: 2
+  weight: 4
 
 - name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
   weight: 3
 
-- name: Postman
+- name: gulp
+  weight: 2
+
+- name: VS Code
   weight: 4
+
+- name: Postman
+  weight: 2

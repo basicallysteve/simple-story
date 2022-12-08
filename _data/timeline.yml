@@ -17,45 +17,43 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Bullfrog Communications/Learn Engines
+  title-url: https://learnengines.co/?ref=ebullfrog
+  date: January 2017 - October 2017
+  subtitle: Junior Software Developer
   tags:
-    - tag: React
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: HTML
+    - tag: CSS3
+    - tag: PHP
+    - tag: Vue
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Totally In View
+  date: October 2017 - September 2019
+  subtitle: Software Developer
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Electron
+    - tag: Node
+    - tag: React
+    - tag: JavaScript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Rothco
+  title-url: https://www.rothco.com/
+  date: September 2019 - 
+  subtitle: Lead Frontend Developer
+  tags:
+    - tag: Vue
+    - tag: JavaScript
+    - tag: SASS
+    - tag: PHP
+    - tag: Laravel
+    - tag: MySQL
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Nassau Community College
+  title-url: https://www.ncc.edu/
+  date: 2015 - 2017
+  subtitle: A.S. Computer Science
   timeline-side: left

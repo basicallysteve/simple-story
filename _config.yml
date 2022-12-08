@@ -23,8 +23,8 @@ email: stevenpaulturner@yahoo.com
 github_username: basicallysteve
 codepen_username: 
 dev_username: 
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: basicallysteve
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Frontend Developer with 6 years of experience
+about_me_description: NY Based Frontend Developer with 6 years of experience. Outside of work, I enjoy traveling, concerts, lifting weights and sneakers.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: 
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -86,7 +86,7 @@ contact_description: Interested in what you see? Please contact me at my email.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: simle-story/basicallysteve.github.io
+repository: simple-story/basicallysteve.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

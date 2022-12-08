@@ -16,6 +16,11 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Nassau Community College
+  title-url: https://www.ncc.edu/
+  date: 2015 - 2017
+  subtitle: A.S. Computer Science
+  timeline-side: left
 
 - title: Bullfrog Communications/Learn Engines
   title-url: https://learnengines.co/?ref=ebullfrog
@@ -50,10 +55,4 @@
     - tag: PHP
     - tag: Laravel
     - tag: MySQL
-  timeline-side: left
-
-- title: Nassau Community College
-  title-url: https://www.ncc.edu/
-  date: 2015 - 2017
-  subtitle: A.S. Computer Science
   timeline-side: left
